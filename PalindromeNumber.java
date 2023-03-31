@@ -14,7 +14,7 @@ class PalindromeNumber
           rev=rev*10+rem;
           ip/=10;
 	   }
-	   //System.out.println(rev);
+	   System.out.println(rev);
 
 	   if (temp==rev) 
 	   {
