@@ -15,5 +15,6 @@ class ReverseNumber
           ip/=10;
 	   }
 	   System.out.println(rev);
+	   System.out.println("hiii Push operation");
 	}
 }
