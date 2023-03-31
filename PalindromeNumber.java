@@ -24,5 +24,7 @@ class PalindromeNumber
 	   {
 	   	  System.out.println(temp+" is Not a Palindrome Number");
 	   }
+	   
+	   System.out.println("Push this file");
 	}
 }
